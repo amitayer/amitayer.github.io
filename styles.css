@@ -12,5 +12,8 @@ h3 {margin-top: 0.5em;
 margin-bottom: 0.5em;
 border-bottom: auto 2px gray;}
 body {line-height: 1.8}
-grid-item { width: 200px; }
-grid-item--width2 { width: 400px; }
+
+portal-logo img {
+   width: 33%;
+   max-width: 180px;
+ }
