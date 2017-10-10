@@ -1,0 +1,16 @@
+h1 {padding: 10px 10px 10px 10px auto;
+margin: 10px}
+body {margin: 10px auto;
+  width: auto px;}
+  body {font-family: "Helvetica",sans-serif;
+font-size: auto;}
+
+h1 {font-size: 5em; font-weight: bold; }
+h2 {font-size: 2.0em; font-weight: bold; }
+h3 {font-size: 1.0em; font-weight: bold; }
+h3 {margin-top: 0.5em;
+margin-bottom: 0.5em;
+border-bottom: auto 2px gray;}
+body {line-height: 1.8}
+grid-item { width: 200px; }
+grid-item--width2 { width: 400px; }
